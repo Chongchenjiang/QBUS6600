@@ -54,4 +54,3 @@ a2/
 - Do not use the 1,350 unlabelled members during model fitting, validation or threshold selection.
 - When a feature definition changes, rerun the notebook and regenerate every output rather than editing a CSV manually.
 
-ljy
